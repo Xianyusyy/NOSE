@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href=""><img alt="Paper" src="https://img.shields.io/badge/Paper-ACL%202026-red"></a>
+  <a href="https://arxiv.org/abs/2604.10452"><img alt="Paper" src="https://img.shields.io/badge/Paper-ACL%202026-red"></a>
   <a href="https://github.com/Xianyusyy/NOSE"><img alt="Code" src="https://img.shields.io/badge/Code-GitHub-blue"></a>
   <a href="https://github.com/Xianyusyy/NOSE/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-green"></a>
 </p>
