@@ -36,7 +36,7 @@ Olfaction lies at the intersection of chemical structure, neural encoding, and l
 
 ## Updates
 
-- **[2026/04]** Paper accepted at ACL 2026! Code and data will be released before the conference.
+- **[2026/04]** Paper accepted at ACL 2026 Main Conference! Code and data will be released before the conference.
 
 ## TODO
 
