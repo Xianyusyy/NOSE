@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <sup>1</sup>Xiamen University &nbsp;
+  <sup>1</sup>College of Chemistry and Chemical Engineering, Xiamen University &nbsp;
   <sup>2</sup>DP Technology &nbsp;
   <sup>3</sup>AI4EC, IKKEM &nbsp;
   <sup>4</sup>Institute of Artificial Intelligence, Xiamen University
@@ -78,11 +78,7 @@ NOSE builds upon the following pre-trained models:
 
 ## Downstream Task Data
 
-Downstream evaluation datasets are publicly available from the following sources:
-
-- **Odor perception tasks**: Most datasets are accessible via [pyrfume-data](https://github.com/pyrfume/pyrfume-data) (MIT License)
-- **Receptor-ligand tasks**: [M2OR](https://github.com/) (Apache 2.0 License)
-- **Odor prediction**: [Pred-O3](https://github.com/) (CC BY-NC 4.0, academic use only)
+Downstream evaluation datasets are publicly available via [pyrfume-data](https://github.com/pyrfume/pyrfume-data) (MIT License).
 
 ## Citation
 
