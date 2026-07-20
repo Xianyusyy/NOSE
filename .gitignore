@@ -12,6 +12,9 @@ build/
 develop-eggs/
 dist/
 downloads/
+.release/
+/weights/
+/model/nose-*/
 eggs/
 .eggs/
 lib/
@@ -24,6 +27,11 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.safetensors
+*.pt
+*.pth
+*.csv.gz
+/data/*.csv
 MANIFEST
 
 # PyInstaller
@@ -77,6 +85,10 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+demos/_reference_notebook_extracts/
+demos/logs/
+demos/results/
+logs/
 
 # IPython
 profile_default/
@@ -136,6 +148,7 @@ celerybeat.pid
 
 # Environments
 .env
+.env.local
 .envrc
 .venv
 env/

@@ -1,0 +1,79 @@
+{
+  "mushroom + wet": {
+    "operands": [
+      "mushroom",
+      "wet"
+    ],
+    "operation": "add",
+    "answers": [
+      "fungal",
+      "earthy"
+    ]
+  },
+  "meat + smoke": {
+    "operands": [
+      "meat",
+      "smoke"
+    ],
+    "operation": "add",
+    "answers": [
+      "bacon",
+      "ham",
+      "roast",
+      "roasted",
+      "roasted meat"
+    ]
+  },
+  "wine - alcohol": {
+    "operands": [
+      "wine",
+      "alcohol"
+    ],
+    "operation": "sub",
+    "answers": [
+      "currant",
+      "currant bud",
+      "berry",
+      "black currant",
+      "black currant bud"
+    ]
+  },
+  "bacon - smoke": {
+    "operands": [
+      "bacon",
+      "smoke"
+    ],
+    "operation": "sub",
+    "answers": [
+      "fatty",
+      "fat",
+      "meat",
+      "animal"
+    ]
+  },
+  "burnt sugar - sugar": {
+    "operands": [
+      "burnt sugar",
+      "sugar"
+    ],
+    "operation": "sub",
+    "answers": [
+      "empyreumatic",
+      "roast",
+      "roasted"
+    ]
+  },
+  "lemon - sour": {
+    "operands": [
+      "lemon",
+      "sour"
+    ],
+    "operation": "sub",
+    "answers": [
+      "citrus",
+      "orange",
+      "hesperidic",
+      "mandarin"
+    ]
+  }
+}

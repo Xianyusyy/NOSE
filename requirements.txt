@@ -1,0 +1,6 @@
+huggingface-hub>=0.33,<1
+numpy>=1.26,<3
+peft>=0.16,<1
+safetensors>=0.5,<1
+torch>=2.5,<3
+transformers>=4.51,<5

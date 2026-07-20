@@ -1,0 +1,17 @@
+{
+  "artifact": "nose-smiles-descriptor-v1.0.0.csv.gz",
+  "columns": [
+    "SMILES",
+    "TARGET_Descriptor"
+  ],
+  "compressed_size_bytes": 9142922,
+  "contains_pair_strength_labels": false,
+  "contains_source_group": false,
+  "csv_formula_prefix_rows": 0,
+  "duplicate_row_count": 1054030,
+  "row_count_including_duplicates": 2567558,
+  "sha256": "858e482f407a3577870a87a61f8f16b488412ed06922dd35dd8d4fe4cf5e6ff2",
+  "unique_descriptor_count": 1086,
+  "unique_pair_count": 1513528,
+  "unique_smiles_count": 9513
+}

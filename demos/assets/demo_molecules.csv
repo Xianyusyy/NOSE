@@ -1,0 +1,4 @@
+name,pubchem_cid,isomeric_smiles,reference_descriptors,source_url
+D-Glucose,5793,C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O,odorless,https://pubchem.ncbi.nlm.nih.gov/compound/5793
+Estriol,5756,C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@H]([C@@H]2O)O)CCC4=C3C=CC(=C4)O,odorless,https://pubchem.ncbi.nlm.nih.gov/compound/5756
+"2,4-Dinitrotoluene",8461,CC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-],odorless|slight,https://pubchem.ncbi.nlm.nih.gov/compound/8461
